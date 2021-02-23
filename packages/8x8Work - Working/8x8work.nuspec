@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>8x8work</id>
+	<owners>8x8</owners>
+    <version>7.3.6.2</version>
+    <title>8x8work (Install)</title>
+    <authors>8x8 Inc.</authors>
+    <projectUrl>https://8x8.com</projectUrl>
+    <iconUrl>https://www.8x8.com/icons/icon-512x512.png?v=34d63ccce2ad2b59d709decf27324b1c</iconUrl>
+    <copyright>2021 8x8, Inc. All rights reserved.</copyright>
+    <tags>8x8work voip phone chat meetings work</tags>
+    <summary>VoIP Software</summary>
+    <description>8x8 Work</description>
+    <releaseNotes>https://support.8x8.com/cloud-phone-service/voice/work-desktop/download-8x8-work-for-desktop#What's_new_in_this_release.3F</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
